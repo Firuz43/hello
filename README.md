@@ -1,1 +1,1 @@
-!!
+git merge [branch]
