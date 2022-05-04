@@ -9,7 +9,7 @@ public class MasterController {
 	
 	@RequestMapping("/")
 	public ModelAndView home() {
-		ModelAndView mav = new ModelAndView("home");
+		ModelAndView mav = new ModelAndView("Home");
 		return mav;
 	}
 }
